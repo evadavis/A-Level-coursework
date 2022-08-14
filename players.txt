@@ -1,0 +1,7 @@
+Eva
+1000
+618man,True
+man2,False
+woman,False
+woman2,False
+woman2

@@ -1,0 +1,8 @@
+Computer Science:
+Accuracy Rating=90%
+Progress bar= 50%
+Highscore= 12580
+Maths:
+Accuracy Rating=45%
+Progress bar=18%
+Highscore=3456

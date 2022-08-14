@@ -1,0 +1,9 @@
+Items:
+Blue_hat, 30, True
+Purple_bow, 50, False
+Striped_shirt, 100, True
+Glasses, 60, False
+Moustache, 10, False
+Crown, 150, True
+Green_shoes, 1000, False
+Purple_skirt, 300, True

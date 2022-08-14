@@ -1,0 +1,5 @@
+1What does LAN stand for?,!Local Area Network,Local Accessible Network,Long Area Network,Long Accessible Network
+2What is the CU?,!Control Unit,Command Unit,Compare Unit,Copy Unit
+3What does WAN stand for?,!Wide Area Network,Wide Accessible Network,Wireless Area Network,Wired Area Network
+4What does volatile mean?,!Turn off power data is lost,loses memory,turn off power data is kept,has moving parts
+5When was the Computer Misuse Act made?,!1990,1989,1992,1991
