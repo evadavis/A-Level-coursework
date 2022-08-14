@@ -1,1 +1,2 @@
 # A-Level-coursework
+This is my A-Level project which I worked on for a year during Sixth Form. The aim of it was to take revising for GCSEs and make it more 'exciting' by turning it into a game. The end result of this would be students wanting to revise by playing the game and then receiving a higher grade in their exams.
